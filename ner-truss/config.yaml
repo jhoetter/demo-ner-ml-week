@@ -1,0 +1,29 @@
+bundled_packages_dir: packages
+data_dir: data
+description: null
+environment_variables: {}
+examples_filename: examples.yaml
+input_type: Any
+model_class_filename: model.py
+model_class_name: Model
+model_framework: custom
+model_metadata:
+  model_binary_dir: model
+  supports_predict_proba: false
+model_module_dir: model
+model_name: null
+model_type: custom
+python_version: py39
+requirements:
+- joblib==1.2.0
+- numpy==1.23.2
+- pandas==1.5.0
+- threadpoolctl
+- scikit-learn==1.1.2
+- sequencelearn==0.0.8
+resources:
+  cpu: 500m
+  memory: 512Mi
+  use_gpu: false
+secrets: {}
+system_packages: []

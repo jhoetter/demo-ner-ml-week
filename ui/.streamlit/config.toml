@@ -1,0 +1,24 @@
+[theme]
+# Primary accent for interactive elements
+primaryColor = "#82E0AA"
+
+# Background color for the main content area
+backgroundColor = "#FFFFFF"
+
+# Background color for sidebar and most interactive widgets
+secondaryBackgroundColor = "#ECF0F10"
+
+# Color used for almost all text
+textColor = "#17202A"
+
+# Font family for all text in the app, except code blocks
+# Accepted values (serif | sans serif | monospace) 
+# Default: "sans serif"
+font = "sans serif"
+
+[server]
+#headless = true
+#port = 80
+
+[browser]
+#serverAddress = "www.ner-demo.com"
