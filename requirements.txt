@@ -3,7 +3,7 @@ black==22.8.0
 embedders==0.0.17
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0-py3-none-any.whl
 ipykernel==6.16.0
-ipython==8.5.0
+ipython==8.10.0
 numpy==1.23.3
 pandas==1.5.0
 refinery-python-sdk==1.3.0
