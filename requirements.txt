@@ -13,5 +13,5 @@ sequencelearn==0.0.8
 spacy==3.4.1
 stack-data==0.5.1
 streamlit==1.13.0
-transformers==4.22.2
+transformers==4.30.0
 truss==0.1.1
